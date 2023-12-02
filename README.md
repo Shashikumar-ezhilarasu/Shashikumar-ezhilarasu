@@ -3,7 +3,27 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on frontend developers<br>🤝 I’m looking to collaborate with web developers<br>🌱 I’m currently learning javascript<br>💬 Ask me about-html,css,python,mysql<br>⚡ Fun fact-badminton player
+## 👋 Hello World, I'm Shashikumar!
+
+I'm a passionate B.Tech student at SRM University, with a keen interest in technology and a knack for turning ideas into interactive and visually appealing web experiences. Currently specializing in front-end development, I thrive on creating elegant and user-friendly interfaces using HTML, CSS, and JavaScript.
+
+ 💻 What I Do
+- 🌐 **Front-end Development:** I have hands-on experience crafting responsive and dynamic web applications using HTML, CSS, and JavaScript. Turning design mockups into seamless user experiences is what I do best.
+- 🚀 **Projects:** I've worked on several small projects showcasing my skills in front-end development. Check out my repositories to explore my coding journey and the diverse range of projects I've undertaken.
+
+ 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Databases:** MySQL
+- **Tools:** VS Code, Git
+
+ 🌱 Learning and Growing
+I'm always exploring new technologies and expanding my skill set. Currently, I'm delving deeper into Python for backend development to complement my front-end skills.
+
+ 📫 Let's Connect
+Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about coding and tech. I'm open to learning from the community and contributing to exciting projects.
+
+Happy coding!! 🚀
+
 
 
 # 💻 Tech Stack:
