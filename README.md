@@ -12,7 +12,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 - 🚀 **Projects:** I've worked on several small projects showcasing my skills in front-end development. Check out my repositories to explore my coding journey and the diverse range of projects I've undertaken.
 
  🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, Python,C
 - **Databases:** MySQL
 - **Tools:** VS Code, Git
 - **Hosting:** Microsoft AZURE
