@@ -20,6 +20,8 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 
 🏆 Achievements
 -**Hackerrank:** ⭐️⭐️⭐️(3-star rating-124pts)
+
+
  🌱 Learning and Growing
 I'm always exploring new technologies and expanding my skill set. Currently, I'm delving deeper into Python for backend development to complement my front-end skills.
 
