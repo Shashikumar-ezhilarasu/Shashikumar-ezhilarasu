@@ -20,7 +20,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 
 🏆 Achievements
 - **Hackerrank:**
-  Pyhton ⭐️⭐️⭐️⭐️(4-star rating-230 Hackos)
+*Python ⭐️⭐️⭐️⭐️(4-star rating-230 Hackos)
 
 🎖️Certifications
 
