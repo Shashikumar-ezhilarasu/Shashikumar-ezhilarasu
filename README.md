@@ -19,7 +19,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 - **Frameworks:** Bootstrap ,React,Django
 
 🏆 Achievements
-- **Hackerrank:** ⭐️⭐️⭐️(3-star rating-124pts)
+- **Hackerrank:** ⭐️⭐️⭐️⭐️(4-star rating-230 Hackos)
 
 🎖️Certifications
 
