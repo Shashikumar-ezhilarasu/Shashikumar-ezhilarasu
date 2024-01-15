@@ -10,6 +10,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
  💻 What I Do
 - 🌐 **Front-end Development:** I have hands-on experience crafting responsive and dynamic web applications using HTML, CSS, and JavaScript. Turning design mockups into seamless user experiences is what I do best.
 - 🚀 **Projects:** I've worked on several small projects showcasing my skills in front-end development. Check out my repositories to explore my coding journey and the diverse range of projects I've undertaken.
+- 🧑🏻‍🎨 **Ux/Ui design** I have worked on various projects ,creating a unique and different designs is my passion 
 
  🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript, Python,C
