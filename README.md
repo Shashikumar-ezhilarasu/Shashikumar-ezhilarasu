@@ -23,7 +23,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 *Python ⭐️⭐️⭐️⭐️(4-star rating-230 Hackos)
 
 🎖️Certifications
-
+- **Python**
 - **Javascript**
   
  🌱 Learning and Growing
