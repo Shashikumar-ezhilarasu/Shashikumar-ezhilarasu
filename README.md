@@ -21,7 +21,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 
 🏆 Achievements
 - **Hackerrank:**
-*Python ⭐️⭐️⭐️⭐️⭐️(5-star-GOLD 407.5 pts)
+*Python ⭐️⭐️⭐️⭐️⭐️(5-star-GOLD)
 
 🎖️Certifications
 - **Python**
