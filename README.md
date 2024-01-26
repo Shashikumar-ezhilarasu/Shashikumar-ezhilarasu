@@ -23,7 +23,7 @@ I'm a passionate B.Tech student at SRM University, with a keen interest in techn
 - **Hackerrank:**
 *Python ⭐️⭐️⭐️⭐️⭐️(5-star-GOLD)<br>
 -**Specialised skills:**
-*Sql database ⭐️(1-star-BRONZE)
+*Sql database ⭐️⭐️(2-star-BRONZE)
 
 🎖️Certifications
 - **Python**
