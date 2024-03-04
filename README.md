@@ -30,10 +30,12 @@ Frameworks: React, Django
 Hackerrank:
 Python: ⭐️⭐️⭐️⭐️⭐️ (5-star-GOLD)
 Specialized skills: SQL database ⭐️⭐️ (2-star-BRONZE)
+
 🎖️ Certifications
 
 Python
 JavaScript
+
 🌱 Learning and Growing
 
 I'm always exploring new technologies and expanding my skill set. Currently, I'm focusing on backend development and learning about blockchain technology to enhance my capabilities further.
