@@ -28,7 +28,7 @@ Frameworks: React, Django
 🏆 Achievements
 
 Hackerrank:
-Python: ⭐️⭐️⭐️⭐️⭐️ (5-star-GOLD)
+Python: ⭐️⭐️⭐️⭐️⭐️ (5-star-GOLD) <br>
 Specialized skills: SQL database ⭐️⭐️ (2-star-BRONZE)
 
 🎖️ Certifications
