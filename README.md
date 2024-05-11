@@ -33,7 +33,7 @@ Specialized skills: SQL database ⭐️⭐️ (2-star-BRONZE)
 
 🎖️ Certifications
 
-Python
+Python <br>
 JavaScript
 
 🌱 Learning and Growing
