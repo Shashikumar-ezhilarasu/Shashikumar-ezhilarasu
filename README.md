@@ -25,6 +25,7 @@ Databases: MySQL
 Tools: VS Code, Git
 Hosting: Microsoft AZURE
 Frameworks: React, Django
+<br>
 🏆 Achievements
 
 Hackerrank:
