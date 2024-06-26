@@ -47,4 +47,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 Happy coding!!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
 
