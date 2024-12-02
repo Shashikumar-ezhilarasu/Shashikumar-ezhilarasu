@@ -27,8 +27,7 @@ I’m always exploring new technologies and expanding my skill set. Right now, I
 📫 Let’s Connect:
 Feel free to explore my repositories, reach out for collaboration, or just chat about coding, tech, or Web3. I'm always open to learning from others and contributing to exciting projects!  
 Phone number: 9082682823
-
-emailID: shashikumarezhilarasu@gmail.com
+email ID: shashikumarezhilarasu@gmail.com
 
 
 
