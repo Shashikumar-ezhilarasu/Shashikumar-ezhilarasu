@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Web Developer and Web3 Enthusiast at SRM University.
 
 🚀 Projects: From front-end to back-end, I’ve worked on a range of projects that showcase my versatility as a full-stack developer. Check out my GitHub to explore my code and get a sense of my coding journey.
 
-🛠️ Tech Stack:
+🛠️ Tech Stack :
 
 Languages: Python, JavaScript, C
 Databases: MySQL
