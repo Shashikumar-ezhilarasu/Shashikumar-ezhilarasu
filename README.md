@@ -28,7 +28,7 @@ Blockchain: Smart Contracts, Web3.js
 🌱 Learning & Growing:
 I’m always exploring new technologies and expanding my skill set. Right now, I'm focused on mastering DSA, backend development, and diving deeper into Web3. I’m constantly seeking opportunities to learn, collaborate, and innovate.
 
-📫 Let’s Connect:
+📫 Let’s Connect :
 Feel free to explore my repositories, reach out for collaboration, or just chat about coding, tech, or Web3. I'm always open to learning from others and contributing to exciting projects!  
 Phone number: 9082682823
 email ID: shashikumarezhilarasu@gmail.com
