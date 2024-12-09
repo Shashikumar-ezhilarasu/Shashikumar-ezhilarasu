@@ -2,7 +2,7 @@
 Contact info :<br>
 Phone number: 9082682823<br>
 email ID: shashikumarezhilarasu@gmail.com
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&titleProfileViews)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=ProfileViews)
 
 I'm a passionate Full-Stack Web Developer and Web3 Enthusiast at SRM University. I love transforming complex ideas into user-friendly, interactive, and innovative web applications. My journey in tech has been exciting, and I’m always looking for ways to push boundaries and learn new things.
 
