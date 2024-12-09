@@ -1,7 +1,7 @@
 👋 Hello World, I'm Shashikumar!<br>
 Contact info :<br>
 Phone number: 9082682823<br>
-email ID: shashikumarezhilarasu@gmail.com
+email ID: shashikumarezhilarasu@gmail.com <br>
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=ProfileViews)
 ![Profile Views](https://img.shields.io/badge/Profile%20views-0-blue)
 
