@@ -30,40 +30,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)
 
 ### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=radical&no-frame=true&row=1&column=7)
-
-### 🏆 GitHub Trophies in Different Themes
-
-#### Default
-![Default](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu)
-
-#### Darkhub
-![Darkhub](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=darkhub)
-
-#### Radial
-![Radial](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=radial)
-
-#### Onedark
-![Onedark](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=onedark)
-
-#### Gruvbox
 ![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
-
-#### Monokai
-![Monokai](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=monokai)
-
-#### Chalk
-![Chalk](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=chalk)
-
-#### Flat
-![Flat](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=flat)
-
-#### Tokyo Night
-![Tokyo Night](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=tokyonight)
-
-#### Solarized Light
-![Solarized Light](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezh
 
 ---
 
