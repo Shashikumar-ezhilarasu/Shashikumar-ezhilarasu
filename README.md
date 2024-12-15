@@ -1,4 +1,4 @@
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=Profile%20Views)
+
  <br>
  <br>
 
@@ -26,9 +26,6 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=Profile%20Views)
 
-### 👋 Hi, I'm Shashikumar!
-
----
 
 ### 📊 GitHub Stats:
 
