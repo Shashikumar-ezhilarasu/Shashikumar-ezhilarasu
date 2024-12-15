@@ -9,7 +9,7 @@ Databases: MySQL, MongoDB <br>
 Blockchain: Smart Contracts, Web3.js <br>
 Tools: VS Code, Git <br>
 Hosting: Microsoft Azure, Vercel <br>
-<br>![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true)
+<br>
 🚀 Other Works: 
  <br>
 Full-Stack Projects: Built responsive web apps with React, Next.js, Django, and Flask. <br>
