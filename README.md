@@ -29,6 +29,10 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)
 
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=radical&no-frame=true&row=1&column=7)
+
 ---
 
 ### 🚀 Contributions Overview:
