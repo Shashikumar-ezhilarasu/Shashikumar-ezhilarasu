@@ -1,12 +1,8 @@
-
- <br>
- <br>
-
 👋 Hi, I'm Shashikumar! <br>
  <br>
 💻 Tech Stack: <br>
  
-Languages: Python, JavaScript, C <br>
+Languages: Python, JavaScript, C <br>![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true)
 Front-End: HTML, CSS, React.js, Next.js  <br>
 Back-End: Django, Flask, Node.js, Express.js, APIs <br>
 Databases: MySQL, MongoDB <br>
