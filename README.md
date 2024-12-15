@@ -44,3 +44,40 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 - **Activity Graph:**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashikumar-ezhilarasu&theme=radical)
+
+
+
+# 👋 Hi, I'm Shashikumar!
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=ProfileViews)
+
+I'm a Full-Stack Web Developer and Web3 Enthusiast. I love building scalable, user-friendly applications and exploring decentralized technologies. 🚀
+
+---
+
+### 🛠️ My Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikumar-ezhilarasu&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashikumar-ezhilarasu&theme=radical)
+
+---
+
+### 🌟 Highlighted Projects
+- **[Portfolio Website](https://github.com/Shashikumar-ezhilarasu/portfolio):** A personal portfolio showcasing my skills and projects.
+- **[Web3 Marketplace](https://github.com/Shashikumar-ezhilarasu/web3-marketplace):** A decentralized marketplace built with Solidity and React.
+
+---
+
+### 🤝 Let’s Connect
+- 📫 Reach me: [shashikumar@example.com](mailto:shashikumar@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashikumar-ezhilarasu/)
+
