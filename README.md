@@ -1,6 +1,6 @@
-👋 Hi, I'm Shashikumar! <br>
+hello ,Ich bin Shashikumar,<br> a Full-Stack Web Developer and Web3 enthusiast passionate about building innovative web applications. With expertise in Front-End (React, Next.js) and Back-End (Django, Node.js), I also explore Machine Learning and Data Science. <br>Always eager to learn and collaborate on exciting projects!
  <br>
-### 🛠️ My Tech Stack
+### 🛠️Tech Stack
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
