@@ -5,7 +5,7 @@
 👋 Hi, I'm Shashikumar! <br>
  <br>
 💻 Tech Stack: <br>
- <br>
+ 
 Languages: Python, JavaScript, C <br>
 Front-End: HTML, CSS, React.js, Next.js  <br>
 Back-End: Django, Flask, Node.js, Express.js, APIs <br>
@@ -13,7 +13,8 @@ Databases: MySQL, MongoDB <br>
 Blockchain: Smart Contracts, Web3.js <br>
 Tools: VS Code, Git <br>
 Hosting: Microsoft Azure, Vercel <br>
-🚀 Other Works: <br>
+<br>
+🚀 Other Works: 
  <br>
 Full-Stack Projects: Built responsive web apps with React, Next.js, Django, and Flask. <br>
 GUI Apps: Developed a Python-based GUI implementing Caesar Cipher. <br>
