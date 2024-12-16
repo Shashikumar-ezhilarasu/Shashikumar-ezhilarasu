@@ -73,7 +73,8 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 ![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikumar-ezhilarasu&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical
+)
 
 ### 🏆 GitHub Trophies
 ![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
