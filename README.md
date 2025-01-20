@@ -1,5 +1,10 @@
 hello👋 Ich bin Shashikumar,<br> a Full-Stack Web Developer and Web3 enthusiast passionate about building innovative web applications. With expertise in Front-End (React, Next.js) and Back-End (Django, Node.js), I also explore Machine Learning and Data Science. <br>Always eager to learn and collaborate on exciting projects!!
  <br>
+ ## GitHub Stats
+
+![Shashikumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikumar-ezhilarasu&layout=compact&theme=radical)
 ### 🛠️Tech Stack
 
 #### **Languages**
