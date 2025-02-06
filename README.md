@@ -1,7 +1,7 @@
 hello👋 Ich bin Shashikumar,<br> a Full-Stack Web Developer and Web3 enthusiast passionate about building innovative web applications. With expertise in Front-End (React, Next.js) and Back-End (Django, Node.js), I also explore Machine Learning and Data Science. <br>Always eager to learn and collaborate on exciting projects!!
  <br>
  
- 
+ <!--
 
 #### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -67,7 +67,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
  <br>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=Profile%20Views)
-
+-->
 
 ### 📊 GitHub Stats:
 
