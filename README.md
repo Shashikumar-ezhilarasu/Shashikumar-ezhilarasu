@@ -89,8 +89,8 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 - **Issues & Pull Requests:**  
   ![Issues](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&count_private=true&show_icons=true&hide_title=true&theme=radical)
-
+<!--
 - **Activity Graph:**  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shashikumar-ezhilarasu&theme=radical)
 
-
+-->
