@@ -83,7 +83,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 ![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
 
 ---
-
+<!--
 ### 🚀 Contributions Overview:
 
 - **Total Contributions:**  
