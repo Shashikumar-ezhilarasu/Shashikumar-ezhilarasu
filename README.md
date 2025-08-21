@@ -1,7 +1,7 @@
 Hello👋 Ich bin Shashikumar,<br> a Full-Stack Web Developer  passionate about building innovative web applications. With expertise in Front-End (React, Next.js) and Back-End (Django, Node.js), I also explore Machine Learning and Data Science. <br>Always curious to learn and collaborate on exciting projects.MERN & PERN Stack developer.Backend expert
  <br> 
  <br>    
- <!--  
+ <!--   
  
  
  
