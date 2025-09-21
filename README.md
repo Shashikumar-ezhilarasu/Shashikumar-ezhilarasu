@@ -74,18 +74,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Shashikumar-ezhilarasu&title=Profile%20Views)
 -->
 
-### 📊 GitHub Stats:
 
-![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikumar-ezhilarasu&layout=compact&theme=radical)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical
-)
-
-### 🏆 GitHub Trophies
-![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
-
----
 <!--
 ### 🚀 Contributions Overview:
 
@@ -105,6 +94,18 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 🔒 **Note:** Many of my projects are unique and innovative, so I’ve chosen to keep them private. Please don’t mistake this for inactivity—I’d be glad to showcase them upon request.  
 
 ---
+### 📊 GitHub Stats:
+
+![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikumar-ezhilarasu&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=Shashikumar-ezhilarasu&theme=radical
+)
+
+### 🏆 GitHub Trophies
+![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
+
+---
 
 ## 🚀 About Me  
 I’m a **Full-Stack Web Developer** passionate about building **scalable and impactful applications**.  
@@ -116,7 +117,7 @@ Beyond web development, I actively explore **Machine Learning, Data Science, and
 
 ---
 
-## 🛠️ Tech Stack  
+<!--## 🛠️ Tech Stack  
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
@@ -164,6 +165,7 @@ Beyond web development, I actively explore **Machine Learning, Data Science, and
 
 ---
 
+
 ## 🌟 Highlights  
 
 - **Full-Stack Projects**: Responsive web apps using React, Next.js, Django, Flask  
@@ -174,6 +176,7 @@ Beyond web development, I actively explore **Machine Learning, Data Science, and
 - **Currently Learning**: DSA, advanced backend systems, and Web3  
 
 ---
+-->
 
 ## 📊 GitHub Stats  
 
