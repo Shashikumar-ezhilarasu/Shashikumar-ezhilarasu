@@ -107,7 +107,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I’m a **Full-Stack Web Developer** passionate about building **scalable and impactful applications**.  
 My expertise lies in **Front-End (React, Next.js)** and **Back-End (Node.js, Django)**, with hands-on experience across **MERN & PERN stacks**.  
 
