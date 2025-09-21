@@ -94,6 +94,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 🔒 **Note:** Many of my projects are unique and innovative, so I’ve chosen to keep them private. Please don’t mistake this for inactivity—I’d be glad to showcase them upon request.  
 
 ---
+<!--
 ### 📊 GitHub Stats:
 
 ![Shashikumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashikumar-ezhilarasu&show_icons=true&theme=radical&count_private=true) 
@@ -106,6 +107,7 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 ![Gruvbox](https://github-profile-trophy.vercel.app/?username=Shashikumar-ezhilarasu&theme=gruvbox)
 
 ---
+-->
 
 ##  About Me  
 I’m a **Full-Stack Web Developer** passionate about building **scalable and impactful applications**.  
