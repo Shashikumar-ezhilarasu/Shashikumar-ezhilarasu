@@ -1,5 +1,5 @@
 
-**🔒 Note:** **Many of my projects are unique and different, so I’ve kept them private.<br> Please don’t assume my GitHub is empty—<br>I’d be happy to showcase them upon request.**  
+**🔒 Note:** **Many of my projects are unique and different, so I’ve kept them private.<br>      Please don’t assume my GitHub is empty—<br>    I’d be happy to showcase them upon request.**  
 
 <!--
 Hello 👋 Ich bin Shashikumar,
