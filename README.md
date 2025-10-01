@@ -1,7 +1,7 @@
 
 **🔒 Note:** **Many of my projects are unique and different, so I’ve kept them private.<br>      Please don’t assume my GitHub is empty— <br>    I’d be happy to showcase them upon request.**  
 
-<!-- 
+<!--  
 Hello 👋 Ich bin Shashikumar,
 a Full-Stack Web Developer passionate about building innovative and scalable applications. I specialize in Front-End (React, Next.js) and Back-End (Node.js, Django) development, with hands-on experience in both MERN & PERN stacks. Beyond web development, I actively explore Machine Learning, Data Science, and Blockchain Development, combining modern technologies to create impactful solutions. Always curious, I love to learn, experiment, and collaborate on exciting projects.
  <br>  
