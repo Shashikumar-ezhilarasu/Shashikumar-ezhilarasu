@@ -99,9 +99,6 @@ Presentations: Delivered sessions on microprocessors, Mars terrain analysis, and
 
 -->
 
-# 👋 Hey there, I’m Shashikumar  
-
-
 ---
 <!--
 ### 📊 GitHub Stats:
