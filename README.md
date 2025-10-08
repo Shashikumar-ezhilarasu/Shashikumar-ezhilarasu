@@ -6,7 +6,7 @@
 I’d be happy to showcase them upon request.  
  
 </div>
-
+ 
 
 <!--  
 
