@@ -4,7 +4,7 @@
 **I keep many of my projects private due to research purposes.** <br>  
  Please don’t assume my GitHub is empty <br>   
 I’d be happy to showcase them upon request.  
- 
+  
 </div>
  
 
