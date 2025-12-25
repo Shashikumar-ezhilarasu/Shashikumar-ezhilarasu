@@ -1,8 +1,7 @@
 <div align="center">
 
 🔒 **Note:**  
-**I keep many of my projects private due to research purposes.** <br>     
-I’d be happy to showcase them upon request.  
+**Some projects are private due to ongoing research and submissions** <br>     
   
 </div>
  
