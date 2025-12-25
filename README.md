@@ -184,7 +184,7 @@ Beyond web development, I actively explore **Machine Learning, Data Science, and
 - **Currently Learning**: DSA, advanced backend systems, and Web3  
 
 ---
--->
+
 
 ## 📊 GitHub Stats  
 
@@ -203,3 +203,4 @@ Beyond web development, I actively explore **Machine Learning, Data Science, and
 
 📫 **Let’s connect and collaborate!** 🚀  
 
+-->
