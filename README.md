@@ -121,7 +121,7 @@ My expertise lies in **Front-End (React, Next.js)** and **Back-End (Node.js, Dja
 
 Beyond web development, I actively explore **Machine Learning, Data Science, and Blockchain Development**, blending modern technologies to create **innovative solutions**.  
 
-⚡ Driven by curiosity, I enjoy **experimenting, learning, and collaborating** on projects that challenge my creativity and technical skills.  
+Driven by curiosity, I enjoy **experimenting, learning, and collaborating** on projects that challenge my creativity and technical skills.  
 
 ---
 
