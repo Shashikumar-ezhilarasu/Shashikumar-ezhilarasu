@@ -201,3 +201,6 @@ Driven by curiosity, I enjoy **experimenting, learning, and collaborating** on p
 📫 **Let’s connect and collaborate!** 🚀  
 
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikumar-ezhilarasu&theme=tokyonight&layout=compact&langs_count=8)
+
