@@ -202,5 +202,7 @@ Driven by curiosity, I enjoy **experimenting, learning, and collaborating** on p
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikumar-ezhilarasu&theme=tokyonight&layout=compact&langs_count=8)
+# My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikumar-ezhilarasu&theme=tokyonight)
 
